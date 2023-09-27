@@ -1,0 +1,6 @@
+<resources>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <string name="image_size">64dp</string>
+    <string name="clip_radius">16dp</string>
+</resources>
